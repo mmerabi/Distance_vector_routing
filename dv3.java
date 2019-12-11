@@ -1,6 +1,3 @@
-//429 Project #2 --- Group #1
-//Charlie, Michael and Max
-
 import java.io.*;
 import java.net.*;
 import java.nio.*;
